@@ -1,4 +1,4 @@
-# [Lightning Visualization](https://akbarhps.github.io/p5-lightning-visualization/)
+# [breadth_first_search_visualization](https://github.com/iqbal-53.github.io/breadth_first_search_visualization/)
 
 [Idea Reference](https://www.youtube.com/watch?v=akZ8JJ4gGLs&t=644s)
 
